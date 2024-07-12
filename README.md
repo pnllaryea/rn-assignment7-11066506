@@ -55,12 +55,20 @@ Screenshots
 
 ![Cart Screenshot]
 (myapp/assets/cart.png)
+![cart](https://github.com/user-attachments/assets/5e966160-d363-487d-9d71-1cc7683ffadf)
+
 
 ![Home Screenshot]
 (myapp/assets/home.png)
+![home](https://github.com/user-attachments/assets/e6c4c863-da06-46de-8d20-2b188704d087)
+
 
 ![Product Info Screenshot]
 (myapp/assets/productInfo.png)
+![productInfo](https://github.com/user-attachments/assets/411b800f-48a0-47ac-88ca-8b6fcbc112b2)
+
 
 ![Drawer Screenshot]
 (myapp/assets/drawer.png)
+![drawer](https://github.com/user-attachments/assets/4f961bfe-53ec-4125-9447-776b0dd4b32a)
+
